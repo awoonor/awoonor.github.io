@@ -1,16 +1,17 @@
 # Site settings
-title: Zetsu
+title: Ernest Awoonor-Williams
 email: zetsu@domain.com
-description: Um lindo tema feito para jekyll e com o <3
-baseurl: "/zetsu"
+description: HEllo
+baseurl: "/"
 url: "http://nandomoreira.me"
 
 author:
-  name     : 'Fernando Moreira'
-  email    : hi@nandomoreira.me
+  name     : 'Ernest Awoonor-Williams'
+  email    : aasdasd@asdasd.com
   url      : http://nandomoreira.me
-  facebook : http://facebook.com/fernando.dev
-  twitter  : http://twitter.com/nandomoreirame
+  facebook :
+  twitter  : http://twitter.com/Ernie_Willis
+  linkedin  : http://ca.linkedin.com/in/eawoonorwilliams
 
 github: https://github.com/nandomoreirame/zetsu
 disqus_shortname: "fernandomoreira"

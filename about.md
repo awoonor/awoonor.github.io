@@ -5,10 +5,8 @@ permalink: /about/
 slug: about
 ---
 
-This is a Jekyll theme. You can find out more information about customizing your theme Jekyll, as well as basic documentation Jekyll use in [jekyllrb.com](http://jekyllrb.com/).
 
-You can find the source code for this theme: [github.com/nandomoreirame/zetsu]({{ site.github }})
 
-You can find the source code in Jekyll [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I am PhD candidate in the department of Chemistry at <a href="http://www.mun.ca/" target="_blank">Memorial University</a>. I work at the centre for molecular simulation and computational modeling in the <a href="http://www.chem.mun.ca/homes/cnrhome/group_page/main.html" target="_blank">Rowley Computational Chemistry Group</a>, where I am developing computer modeling tools to design more potent and selective anticancer drugs. I am particularly interested in all matters concerning drug design and discovery.
 
-Theme developed by: [{{ site.author.name }}]({{ site.author.url }})
+

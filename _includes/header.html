@@ -16,6 +16,7 @@
         </a>
 
         <ul class="nav">
+          <li><a href="{{ 'informal_cv.pdf' | prepend: site.baseurl }}">Résumé</a></li>
           {% for page in site.pages %}
             {% if page.title and page.title != 'Home' %}
             <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
@@ -27,7 +28,8 @@
 
     {% if page.slug == 'home' %}
       <h2 class="txt-center">
-        Let's Science it Up Fellas
+        <strong>Medicinal Chemist and Computational Biochemist at heart</strong> <br> 
+        <i>Interested in all things related to proteins and drug discovery.<i>
       </h2>
     {% endif %}
 

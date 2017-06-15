@@ -1,23 +1,23 @@
 # Site settings
 title: Ernest Awoonor-Williams
-email: zetsu@domain.com
-description: HEllo
+email: esaw83@mun.ca
+description: Hello
 baseurl: ""
-url: "http://nandomoreira.me"
+url: "http://awoonor.github.io"
 
 author:
   name     : 'Ernest Awoonor-Williams'
   email    : esaw83@mun.ca
-  url      : http://nandomoreira.me
+  url      : http://awoonor.github.io
   facebook :
   twitter  : http://twitter.com/Ernie_Willis
   linkedin  : http://ca.linkedin.com/in/eawoonorwilliams
-  researchgate:
-  googlescholar:
+  researchgate: https://www.researchgate.net/profile/Ernest_Awoonor-Williams
+  googlescholar: https://scholar.google.com/citations?user=AwvMTjIAAAAJ&hl=en
 
-github: https://github.com/nandomoreirame/zetsu
-disqus_shortname: "fernandomoreira"
-google_analytics: UA-52446115-1
+github: https://github.com/awoonor
+disqus_shortname: "ernesto"
+google_analytics: UA-101112905-1
 
 paginate: 2
 comments: true

@@ -1,3 +1,9 @@
+
+# Code used to create my Github webpage
+
+See [what it looks like](http://awoonor.github.io).
+
+
 # Zetsu
 
 > **Zetsu** - is a clean theme for Jekyll :smirk:

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: About 
 permalink: /about/
-slug: about
+slug: about 
 ---
 
 Ernest completed his B.Sc (Hons) degree at <a href="https://www.mta.ca/" target="_blank">Mount Allison University</a> under the supervion of <a href="https://www.mta.ca/Community/Bios/Khashayar_Ghandi/Khashayar_Ghandi/" target="_blank">Prof. Khashayar Ghandi</a> in 2014. Ernest's honours research focussed on muonium free radical chemistry in green solvents, particularly supercritical carbon dioxide. This research combined both computational and experimental approaches, with the latter carried out with researchers at <a href="http://www.triumf.ca/" target="_blank">TRIUMF National Laboratory</a> in Vancouver, BC.

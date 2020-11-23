@@ -11,10 +11,8 @@ In September 2014, Ernest moved to St. John's, NL to pursue graduate studies in 
 
 Currently, Ernest is working as a Reasearch Assistant II in the <a href="https://www.rowleygroup.net/" target="_blank">Rowley Group at Memorial University</a>. He is actively seeking postdoctoral and job opportunities in the area of computer-aided drug design and discovery.
 <br />
-
-![Meeting with Prof. Poliakoff](../images/CSC-2017.JPG)
 <p align="center">
-  <img width="400" height="350" src="![Young-Chemist](../images/CSC-2017.JPG)">
+ <img width="400" height="350" src="![Meeting with Prof. Poliakoff](../images/CSC-2017.JPG)">
 </p>
 ***Pictured here with <a href="https://en.wikipedia.org/wiki/Martyn_Poliakoff" target="_blank">Prof. Sir Martyn Poliakoff</a> of <a href="https://www.nottingham.ac.uk/" target="_blank">UNott</a> at CSC 2017 Conference in Toronto.***
 

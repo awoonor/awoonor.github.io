@@ -7,7 +7,7 @@ slug: about
 
 *I use computer software to identify druggable sites in enzyme targets whose malfunction can lead to pathophysiological mechanisms in diseases like cancer, diabetes, and inflammation. To simply put, I am looking at how we can employ the power of computer software to speed up the process of drug discovery, so that we can develop relatively cheap, safe, and effective medicines for patients. The process of developing a safe and effective drug for disease treatment is expensive and costs billions of dollars. The advancement in computer technology, speed, and algorithm offers an opportunity to expedite the process of drug discovery. This will provide new insights into developing novel, efficacious, and life-changing medicines for patients who are in dire need for treatment.*
 
-For a list of recent research and publications, checkout my <a href="https://www.researchgate.net/profile/Ernest_Awoonor-Williams" target="_blank">ResearchGate</a> and <a href="https://scholar.google.com/citations?user=AwvMTjIAAAAJ&hl=en" target="_blank">google scholar</a> pages.
+***For a list of recent research and publications, checkout my <a href="https://www.researchgate.net/profile/Ernest_Awoonor-Williams" target="_blank">ResearchGate</a> and <a href="https://scholar.google.com/citations?user=AwvMTjIAAAAJ&hl=en" target="_blank">google scholar</a> pages.***
 
 
 
